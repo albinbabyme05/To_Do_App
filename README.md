@@ -26,25 +26,25 @@ Features
 Prerequisites
 ---------------
 
-*Node.js (v14 or higher)
+* Node.js (v14 or higher)
 
-*How to Run Locally
+* How to Run Locally
 
-*Clone the Repository
+* Clone the Repository
 
-*git clone <repository-url>
+* git clone <repository-url>
 
-*cd to-do-app
+* cd to-do-app
 
-*Install Dependencies
+* Install Dependencies
 
-*npm install
+* npm install
 
-*Run the Application
+* Run the Application
 
-*npm run dev
+* npm run dev
 
-*The app will be available at http://localhost:5173/.
+* The app will be available at http://localhost:5173/.
 
 
 Project Structure
@@ -56,19 +56,19 @@ Project Structure
 Usage
 -------
 
-*Adding a Task: Type your task in the input field and click the "+" button to add it to the list.
+* Adding a Task: Type your task in the input field and click the "+" button to add it to the list.
 
-*Marking as Complete: Click the checkbox next to a task to mark it as complete.
+* Marking as Complete: Click the checkbox next to a task to mark it as complete.
 
-*Deleting a Task: Click the "X" button to remove a task from the list.
+* Deleting a Task: Click the "X" button to remove a task from the list.
 
 Future Enhancements
 --------------------
-*Add task editing functionality.
+* Add task editing functionality.
 
-*Include task categorization or tagging.
+* Include task categorization or tagging.
 
-*Implement a persistent storage option (e.g., localStorage or a database).
+* Implement a persistent storage option (e.g., localStorage or a database).
 
 License
 --------
