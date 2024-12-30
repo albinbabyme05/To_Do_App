@@ -12,10 +12,15 @@ Features
 ---------
 
 * Add Tasks: Users can input new tasks to their to-do list.
+  
 * Mark as Complete: Tasks can be checked off as completed.
-* Delete Tasks: Unwanted tasks can be removed from the list.
+  
+* Delete Tasks: Unwanted tasks can be removed from the list
+  
 * Responsive Design: Optimized for different screen sizes.
+  
 * Technologies Used
+  
 * Frontend: React.js, JavaScript, HTML, CSS
 
 Prerequisites
