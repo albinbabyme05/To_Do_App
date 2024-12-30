@@ -27,15 +27,25 @@ Prerequisites
 ---------------
 
 *Node.js (v14 or higher)
+
 *How to Run Locally
+
 *Clone the Repository
+
 *git clone <repository-url>
+
 *cd to-do-app
+
 *Install Dependencies
+
 *npm install
+
 *Run the Application
+
 *npm run dev
+
 *The app will be available at http://localhost:5173/.
+
 
 Project Structure
 -----------------
@@ -47,11 +57,17 @@ Usage
 -------
 
 *Adding a Task: Type your task in the input field and click the "+" button to add it to the list.
+
 *Marking as Complete: Click the checkbox next to a task to mark it as complete.
+
 *Deleting a Task: Click the "X" button to remove a task from the list.
-*Future Enhancements
+
+Future Enhancements
+--------------------
 *Add task editing functionality.
+
 *Include task categorization or tagging.
+
 *Implement a persistent storage option (e.g., localStorage or a database).
 
 License
